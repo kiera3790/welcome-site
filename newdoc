@@ -1,0 +1,68 @@
+
+ <html>
+  <head>
+	   <meta charset="utf-8"/>
+	   <title> hello </title>
+	   <link href='./introduction.css' rel='stylesheet'>
+
+  </head>
+
+  <body>
+
+
+
+    <div class ='topsen' >
+      <h1> WELCOME TO MY WEB PAGE! </h1>
+      <p> This is where I try making a very first, <b>own</b> website </p>
+      <img src="https://seo-trench.com/wp-content/uploads/2019/11/12-Websites-You-Should-Check-Out-to-Learn-Web-Development-Fast.png" width='1500' />
+      <img src="emoji.png" alt="emoji"/>
+      <br><br>
+    </div>
+
+    <div class="form">
+       <h1> A dee survey to get to know you, my dear guest :) </h1>
+       <p> Let me know you, too </p>
+       <input type="text" placeholder="What's Your Name?" name="name"><br>
+       <p> Which color do you prefer? </p>
+       <input type="radio" name="color" value="blue"> blue
+       <input type="radio" name="color" value="red"> red
+       <input type="radio" name="color" value="yellow"> yellow
+       <input type="checkbox" name="color" value="black"> black
+       <br>
+       <p> What's your birthday? </p>
+       <input type="date" name="birthday"><br>
+       <p> Write me something clandestinely, please~ (if you like to :) ) </p>
+       <input type="password" placeholder="Secret message" name="Secret"><br>
+       <input type="submit">
+       <p> Tell me your favorite animal as well, okay? </p>
+       <input list="animal" placeholder="Choose your favorite" name="animal">
+       <datalist id="animal">
+           <option value="Dog">
+           <option value="Cat">
+     </div>
+
+    <div id = "start" >
+      <button><a href='hall.html'> ENTRANCE TO MY COZZY WEB PAGE</a> </button>
+    </div>
+
+
+
+
+      <div class="contact">
+        <p>Where to contact me</p>
+        <a href="https://www.facebook.com/ngan.nguyenngoc.3790.2945/about" target="_blank">Facebook</a><br>
+        <a href="https://www.youtube.com/channel/UCBROIrhi1NmWYnPLdVbiCLA" target="_blank"> Youtube</a>
+
+
+
+
+
+    </div>
+
+    <div>
+
+
+
+</ol>
+   </body>
+ </html>
